@@ -1,5 +1,8 @@
 # btc-price-prediction-using-bert
-CS SBU Msc Project for Artificial Neural Network Course
+
+Msc Project for Artificial Neural Network Course
+
+CS SBU
 
 ---
 
